@@ -1,6 +1,8 @@
 # First Python script with dependencies on Git!
 
-import requests, json, os
+import requests
+import json
+import os
 from datetime import datetime
 start = datetime.now()
 
